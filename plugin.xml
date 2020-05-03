@@ -109,7 +109,7 @@ SOFTWARE.
             <feature name="OpenWithPlugin">
 				<param name="android-package" value="cc.fovea.openwith.OpenWithPlugin"/>
 			</feature>
-            <preference name="AndroidLaunchMode" value="singleTask"/>
+            <preference name="AndroidLaunchMode" value="singleInstance"/>
         </config-file>
 
         <!-- cordova plugin src files -->
